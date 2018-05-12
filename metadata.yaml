@@ -1,0 +1,35 @@
+_repo: Curious-Punishments-of-Bygone-Days_34005
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Earle, Alice Morse
+    alias: Earle, Mary Alice Morse
+    birthdate: 1851
+    deathdate: 1911
+    gutenberg_agent_id: '2836'
+    url: http://www.gutenberg.org/2009/agents/2836
+description: In Curious Punishments of Bygone Days, the punishment did not always
+  fit the crime, as this fine old illustrated history of wrath and righteousness shows.
+  One of the earliest institutions in every New England community was a pair of stocks.
+  The first public building was a meeting house, but often before any house of God
+  was built, the devil got his restraining engine. And who were the heinous criminals
+  that the righteous put in the stocks? The punishment generally, in England and America
+  both, was for petty thieves, unruly servants, Sabbath-breakers, revilers, gamblers,
+  drunkards, ballad-singe.
+gutenberg_issued: '2010-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34005'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Punishment -- United States -- History -- 18th century'
+- !lcsh 'Punishment -- United States -- History -- 17th century'
+title: Curious Punishments of Bygone Days
+url: http://www.gutenberg.org/ebooks/34005
